@@ -1,0 +1,25 @@
+_commit: 0.1.7
+_src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
+author: Marco Visani
+common_filename_pattern: '*mapp_01_*.mzML'
+email: marco.visani@unifr.ch
+gap_filling: false
+git_repo_path: /Users/visanim/work/random-markov-field
+github_username: commons-research
+gnps_job_id: ''
+ionization_mode: positive
+mapp_batch: mapp_batch_00001
+mapp_batch_description: Untargeted matabolomics of fake-extract-plate-3 positive mode
+mapp_project: mapp_project_00001
+noise_level: 50000.0
+repository_name: fake-extract-plate-3-mix
+target_variable: source_taxon
+recorded_setup: true
+recorded_repository_name: "fake-extract-plate-3-mix"
+recorded_author: "Marco Visani"
+recorder_email: "marco.visani@unifr.ch"
+recorded_github_username: "commons-research"
+recorded_mapp_project: "mapp_project_00001"
+recorded_mapp_batch: "mapp_batch_00001"
+
+
