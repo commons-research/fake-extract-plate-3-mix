@@ -1,0 +1,19 @@
+[project]
+name = "fake-extract-plate-3-mix"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "matplotlib-venn>=1.1.2",
+    "pandas>=2.2.3",
+    "polars>=1.29.0",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+]
+
+[dependency-groups]
+dev = [
+    "jupyterlab>=4.4.2",
+]
